@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T04:30:49.687Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5A1zoIRhQsOgvY-KuMKO" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T05:48:44.622Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="oAM62S4SkS8pqsCWLlXD" version="14.9.9" type="github">
   <diagram id="kqw_EEB3ICVsyudQTdO8" name="Page-1">
-    <mxGraphModel dx="683" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-1" value="优势（strength)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="60" width="220" height="320" as="geometry" />
+          <mxGeometry x="40" y="60" width="250" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-2" value="1.危险废弃物规范化管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-1">
-          <mxGeometry y="26" width="220" height="26" as="geometry" />
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-3" value="2.有专职的环境管理人员" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-1">
-          <mxGeometry y="52" width="220" height="26" as="geometry" />
+          <mxGeometry y="52" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-4" value="3.资金及技术能力支持&#xa;&#xa;4.公司对环境保护和节能减排工作非常&#xa;重视" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-1">
-          <mxGeometry y="78" width="220" height="82" as="geometry" />
+          <mxGeometry y="78" width="250" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-14" value="机会(opportunity)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-1">
-          <mxGeometry y="160" width="220" height="160" as="geometry" />
+          <mxGeometry y="160" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-15" value="1.环保模范企业，本地政府对公司环境&#xa;保护工作认可，评价较高" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-14">
-          <mxGeometry y="26" width="220" height="44" as="geometry" />
+          <mxGeometry y="26" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-17" value="2.政府鼓励和支持企业对产生的铝灰渣&#xa;进行回收再利用。&#xa;&#xa;3.国家法律法规也支持铝灰渣的回收再&#xa;利用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-14">
-          <mxGeometry y="70" width="220" height="90" as="geometry" />
+          <mxGeometry y="70" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-9" value="劣势(weakness)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="60" width="220" height="320" as="geometry" />
+          <mxGeometry x="290" y="60" width="240" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-10" value="1.铝灰渣入危之后工作量增大" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-9">
-          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-10" value="1.铝灰渣入危之后工作量增大，收益减少" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-9">
+          <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-11" value="2.铝灰渣铝含量较高，造成浪费" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-9">
-          <mxGeometry y="52" width="220" height="26" as="geometry" />
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-12" value="3.铝灰渣未经过处理就卖出，造成浪费" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-9">
-          <mxGeometry y="78" width="220" height="82" as="geometry" />
+          <mxGeometry y="78" width="240" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-18" value="风险（threat）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-9">
-          <mxGeometry y="160" width="220" height="160" as="geometry" />
+          <mxGeometry y="160" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-19" value="1.广东省铝灰渣整体处理能力不足,会出&#xa;现爆仓风险&#xa;&#xa;2.铝材价格上涨，生产成本增加，竞争&#xa;能力下降&#xa;&#xa;3.新能源对传统车企冲击，市场竞争激烈" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Xc-GuWCWaLxMhfv2FBEa-18">
-          <mxGeometry y="26" width="220" height="134" as="geometry" />
+          <mxGeometry y="26" width="240" height="134" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-74" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;direction=west;" vertex="1" parent="1">
           <mxGeometry x="190" y="503" width="570" height="407" as="geometry" />
@@ -94,14 +94,14 @@
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-92" value="&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;优势（strength)&lt;br&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;1.危险废弃物规范化管理&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;2.有专职的环境管理人员&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;3.资金及技术能力支持&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;4.公司对环境保护和节能减排工作非常&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;重视&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="390" y="503" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-93" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;劣势(weakness)&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1.铝灰渣入危之后工作量增大&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2.铝灰渣铝含量较高，造成浪费&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;3.铝灰渣未经过处理就卖出，造成浪费&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="580" y="510" width="170" height="100" as="geometry" />
+        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-93" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;劣势(weakness)&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1.铝灰渣入危之后工作量增大，收益减少&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2.铝灰渣铝含量较高，造成浪费&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;3.铝灰渣未经过处理就卖出，造成浪费&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="509" width="170" height="115" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-94" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;机会(opportunity)&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1.环保模范企业，本地政府对公司环境&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;保护工作认可，评价较高&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2.政府鼓励和支持企业对产生的铝灰渣&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;进行回收再利用。&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;3.国家法律法规也支持铝灰渣的回收再&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;利用&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="195" y="649" width="180" height="115" as="geometry" />
+          <mxGeometry x="195" y="647" width="180" height="115" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-95" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;风险（threat）&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1.广东省铝灰渣整体处理能力不足,会出&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;现爆仓风险造成违法风险&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2.铝材价格上涨，生产成本增加，竞争&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;能力下降&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;3.新能源对传统车企冲击，市场竞争激烈&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="195" y="780" width="170" height="140" as="geometry" />
+          <mxGeometry x="195" y="779" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-112" value="" style="endArrow=none;html=1;fontSize=8;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Xc-GuWCWaLxMhfv2FBEa-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,13 +113,13 @@
           <mxGeometry x="385" y="644" width="175" height="116" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-116" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ST战略（优势，风险组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.积极寻找有资质的铝灰渣处置&lt;/p&gt;&lt;p&gt;厂家，保证铝灰渣处置价格最优&lt;/p&gt;&lt;p&gt;2.关注铝材价格波动，推进铝灰渣消减工作&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="385" y="790" width="180" height="110" as="geometry" />
+          <mxGeometry x="385" y="787" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-117" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;WO战略（机会，劣势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.积极推进铝灰渣回收再利用工作，响应政府政策，消减工作量和浪费&lt;/p&gt;&lt;p&gt;2.调查铝灰渣产生过程，验证铝灰渣中可回收铝含量，计算成本&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="575" y="648" width="175" height="116" as="geometry" />
+          <mxGeometry x="575" y="645" width="175" height="132" as="geometry" />
         </mxCell>
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-118" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;WT战略（风险，劣势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.铝渣回收方案最优化，从源头开始消减，降低投入成本，收益最大化，安全环保和高效&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="575" y="787" width="175" height="116" as="geometry" />
+          <mxGeometry x="575" y="788" width="175" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
