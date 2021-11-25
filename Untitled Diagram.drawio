@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T04:18:47.756Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="dPB_2b-8YwiFbe97G5JR" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T04:30:49.687Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5A1zoIRhQsOgvY-KuMKO" version="14.9.9" type="github">
   <diagram id="kqw_EEB3ICVsyudQTdO8" name="Page-1">
     <mxGraphModel dx="683" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,11 +112,14 @@
         <mxCell id="Xc-GuWCWaLxMhfv2FBEa-115" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;SO战略（机会，优势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.努力做好公司环保工作，推进铝渣规范化管理，规避相关风险&lt;/p&gt;&lt;p&gt;2.积极和环保主管部门以及关联企业沟通协调&lt;span&gt;保持信息通畅&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="385" y="644" width="175" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-116" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ST战略（机会，风险组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.积极寻找有资质的铝灰渣处置&lt;/p&gt;&lt;p&gt;厂家，保证铝灰渣处置价格最优&lt;/p&gt;&lt;p&gt;2.关注铝材价格波动，推进铝灰渣消减工作&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-116" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ST战略（优势，风险组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.积极寻找有资质的铝灰渣处置&lt;/p&gt;&lt;p&gt;厂家，保证铝灰渣处置价格最优&lt;/p&gt;&lt;p&gt;2.关注铝材价格波动，推进铝灰渣消减工作&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="385" y="790" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-117" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;WO战略（机会，劣势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.努力做好公司环保工作，推进铝渣规范化管理，规避相关风险&lt;/p&gt;&lt;p&gt;2.积极和环保主管部门以及关联企业沟通协调&lt;span&gt;保持信息通畅&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-117" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;WO战略（机会，劣势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.积极推进铝灰渣回收再利用工作，响应政府政策，消减工作量和浪费&lt;/p&gt;&lt;p&gt;2.调查铝灰渣产生过程，验证铝灰渣中可回收铝含量，计算成本&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="575" y="648" width="175" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Xc-GuWCWaLxMhfv2FBEa-118" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;WT战略（风险，劣势组合）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1.铝渣回收方案最优化，从源头开始消减，降低投入成本，收益最大化，安全环保和高效&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="575" y="787" width="175" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
